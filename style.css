@@ -43,6 +43,7 @@ background-image: linear-gradient(to right top, #0af8a9, #f713b2, #86e936, #a1d2
 #logout
 {
 	font-size: 20px; float: right;
+	color: rgb(253, 144, 144);
 }
 
 
